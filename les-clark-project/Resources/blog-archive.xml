@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Resources</title>
+    <link>https://www.stephaniesapienza.com/les-clark-project/Resources</link>
+    <description>This page is more than just a history of Les Clark specifically, it is a resource for animators and historians studying animation.  For that reason, I&#x2019;m including a list of all the resources I consulted for this project.  Please also see the link to the ASIFA Animation Archive in Burbank, as well as the finding aid for the John Canemaker Animation Collection, which contains the largest archival collection of animation resources available to the public.</description>
+    <item>
+      <title>Books</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Resources/Entries/2007/6/11_Books.html</link>
+      <guid isPermaLink="false">41e0352d-77ed-4fa7-9322-109322c2debf</guid>
+      <pubDate>Mon, 11 Jun 2007 18:01:45 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/les-clark-project/Resources/Entries/2007/6/11_Books.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Periodicals</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Resources/Entries/2007/6/11_Periodicals.html</link>
+      <guid isPermaLink="false">d112b073-bd76-465c-aa7c-949292557eac</guid>
+      <pubDate>Mon, 11 Jun 2007 18:01:38 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/les-clark-project/Resources/Entries/2007/6/11_Periodicals.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Web Resources</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Resources/Entries/2007/6/11_Web_Resources.html</link>
+      <guid isPermaLink="false">b604001c-d931-40e7-85ba-74e01b3d6f64</guid>
+      <pubDate>Mon, 11 Jun 2007 18:01:07 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/les-clark-project/Resources/Entries/2007/6/11_Web_Resources.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>https://www.stephaniesapienza.com/les-clark-project/Resources</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

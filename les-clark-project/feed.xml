@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:DDD73100-7D96-497B-86A0-DE78CEB84493</id>
+ <title>Page list Atom feed</title>
+ <updated>2021-08-26T14:40:07-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:79B688E2-C006-4C73-A1A7-14AE8C729EE0</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">79B688E2-C006-4C73-A1A7-14AE8C729EE0</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2021-08-26T14:40:07.001-04:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B82CAA9D-38EB-4545-AF9D-52A271BC08F8</id>
+  <title>Background</title>
+  <title xmlns="urn:iweb:">Background</title>
+  <in-navbar xmlns="urn:iweb:">B82CAA9D-38EB-4545-AF9D-52A271BC08F8</in-navbar>
+  <link rel="alternate" href="Background/Background.html"/>
+  <updated>2005-09-20T21:08:38-04:00</updated>
+  <content>Background</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:48FFFD8E-5170-4ACB-BBE9-01BA4E1F3C52</id>
+  <title>Animography</title>
+  <title xmlns="urn:iweb:">Animography</title>
+  <in-navbar xmlns="urn:iweb:">48FFFD8E-5170-4ACB-BBE9-01BA4E1F3C52</in-navbar>
+  <link rel="alternate" href="Animography/Animography.html"/>
+  <updated>2005-09-20T21:08:38-04:00</updated>
+  <content>Animography</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1E8EADD6-D6AD-4929-B1F2-7E578E8D6761</id>
+  <title>Photos</title>
+  <title xmlns="urn:iweb:">Photos</title>
+  <in-navbar xmlns="urn:iweb:">1E8EADD6-D6AD-4929-B1F2-7E578E8D6761</in-navbar>
+  <link rel="alternate" href="Photos/Photos.html"/>
+  <updated>2005-09-20T21:08:38-04:00</updated>
+  <content>Photos</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9720E381-AA4B-49AF-8B9E-97B193589D83</id>
+  <title>Resources</title>
+  <title xmlns="urn:iweb:">Resources</title>
+  <in-navbar xmlns="urn:iweb:">9720E381-AA4B-49AF-8B9E-97B193589D83</in-navbar>
+  <link rel="alternate" href="Resources/Resources.html"/>
+  <updated>2005-09-20T21:08:38-04:00</updated>
+  <content>Resources</content>
+ </entry>
+</feed>

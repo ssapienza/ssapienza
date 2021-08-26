@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="56157A50-197D-4D22-B234-D0192BB19B67">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:40:46 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Web Resources</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The online animation community is full of knowledgeable people, including historians, experts working in the field, archivists and students.  Here is a sampling of websites where you can find information about a wide variety of animation-related subjects:</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+</content>
