@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photos</title>
+    <link>https://www.stephaniesapienza.com/les-clark-project/Photos/Photos.html</link>
+    <description>Many of the photos below were scanned at the ASIFA Animation Archive in Burbank, as courtesy of the Les Clark Collection donated by Georgia Clark.  The rest are taken from other sources, either web blogs or books (many of the personal and studio photos were taken from John Canemaker’s Nine Old Men book).</description>
+    <generator>iWeb 3.0.2</generator>
+    <image>
+      <url>https://www.stephaniesapienza.com/les-clark-project/Photos/Photos_files/mickey%20effect.jpg</url>
+      <title>Photos</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Photos/Photos.html</link>
+    </image>
+    <item>
+      <title>Cels and Filmstrips</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Cels_and_Filmstrips.html</link>
+      <guid isPermaLink="false">cfdd609d-a181-4950-b14c-0bbede4781a2</guid>
+      <pubDate>Sat, 9 Jun 2007 21:44:21 -0400</pubDate>
+      <description>&lt;a href=&quot;https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Cels_and_Filmstrips_files/clara%20cluck%20stage%20filmstrip_1.jpg&quot;&gt;&lt;img src=&quot;https://www.stephaniesapienza.com/les-clark-project/Photos/Media/object583.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:251px; height:188px;&quot;/&gt;&lt;/a&gt; </description>
+      <enclosure url="https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Cels_and_Filmstrips_files/clara%20cluck%20stage%20filmstrip_1.jpg" length="103261" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Sketches and Animation Drawings</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Sketches_and_Animation_Drawings.html</link>
+      <guid isPermaLink="false">77ffde74-56a0-4cab-a363-2467d83e0f0f</guid>
+      <pubDate>Sat, 9 Jun 2007 21:43:34 -0400</pubDate>
+      <description>&lt;a href=&quot;https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Sketches_and_Animation_Drawings_files/Pluto%20points%20an%20drawing_2.jpg&quot;&gt;&lt;img src=&quot;https://www.stephaniesapienza.com/les-clark-project/Photos/Media/object584.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:427px; height:154px;&quot;/&gt;&lt;/a&gt; </description>
+      <enclosure url="https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Sketches_and_Animation_Drawings_files/Pluto%20points%20an%20drawing_2.jpg" length="39177" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Personal and Studio photos</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Personal_and_Studio_photos.html</link>
+      <guid isPermaLink="false">feebc0d6-decc-4e9c-b0be-49113f0aa840</guid>
+      <pubDate>Sat, 9 Jun 2007 20:54:18 -0400</pubDate>
+      <description>&lt;a href=&quot;https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Personal_and_Studio_photos_files/Les%20comic%20feature_1.jpg&quot;&gt;&lt;img src=&quot;https://www.stephaniesapienza.com/les-clark-project/Photos/Media/object585.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:251px; height:188px;&quot;/&gt;&lt;/a&gt; </description>
+      <enclosure url="https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Personal_and_Studio_photos_files/Les%20comic%20feature_1.jpg" length="197315" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

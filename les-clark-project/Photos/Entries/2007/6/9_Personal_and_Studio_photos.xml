@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="25B8DE6F-DE5F-45AE-B86F-F215B4132E44">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:40:36 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Personal and Studio photos&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_Personal_and_Studio_photos_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Photos of Les, his family and his coworkers at the studio&lt;/b&gt;</richText>
+  </textBox>
+</content>

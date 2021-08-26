@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="25B8DE6F-DE5F-45AE-B86F-F215B4132E44">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:40:39 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sketches and Animation Drawings&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_Sketches_and_Animation_Drawings_files/Pluto%20points%20an%20drawing.jpg" left="0px" top="0px" width="427.12px" height="153.8397px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Pencil sketches, layout drawings and animation artwork&lt;/b&gt;</richText>
+  </textBox>
+</content>

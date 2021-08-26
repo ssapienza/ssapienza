@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photos</title>
+    <link>https://www.stephaniesapienza.com/les-clark-project/Photos</link>
+    <description>Many of the photos below were scanned at the ASIFA Animation Archive in Burbank, as courtesy of the Les Clark Collection donated by Georgia Clark.  The rest are taken from other sources, either web blogs or books (many of the personal and studio photos were taken from John Canemaker&#x2019;s Nine Old Men book).</description>
+    <item>
+      <title>Cels and Filmstrips</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Cels_and_Filmstrips.html</link>
+      <guid isPermaLink="false">cfdd609d-a181-4950-b14c-0bbede4781a2</guid>
+      <pubDate>Sat, 9 Jun 2007 21:44:21 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Cels_and_Filmstrips.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Sketches and Animation Drawings</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Sketches_and_Animation_Drawings.html</link>
+      <guid isPermaLink="false">77ffde74-56a0-4cab-a363-2467d83e0f0f</guid>
+      <pubDate>Sat, 9 Jun 2007 21:43:34 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Sketches_and_Animation_Drawings.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Personal and Studio photos</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Personal_and_Studio_photos.html</link>
+      <guid isPermaLink="false">feebc0d6-decc-4e9c-b0be-49113f0aa840</guid>
+      <pubDate>Sat, 9 Jun 2007 20:54:18 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/les-clark-project/Photos/Entries/2007/6/9_Personal_and_Studio_photos.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>https://www.stephaniesapienza.com/les-clark-project/Photos</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
