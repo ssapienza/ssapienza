@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="B23C909D-F870-4BDD-9644-005C23690679">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:38:07 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>ASIFA-Hollywood Animation Archive Strategic Plan</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xD;&lt;i&gt;For the Collection Development course (MIAS 240), my final project was a Strategic Plan for the ASIFA-Hollywood Animation Archive in Burbank.  The purpose of this plan was to provide an overview of the archive&#x2019;s mission, purpose, history and future goals, and to contextualize it within the framework of the broader communities of archives and animation. It set priorities and outlined a feasible timeline in which to accomplish them.&#xD;&#xD;The document is a real working asset to ASIFA-Hollywood, who will use it as a guideline for both internal members and outside agencies that could potentially support its implementation.&#xD;&#xD;Below, I have included the Table of Contents, to give an overview of the plan&#x2019;s structure.  I also included a portion of the Strengths and Weaknesses section that articulates my notion of building &#x201C;archival fans.&#x201D;  Lastly, I included the External Threats and Opportunities section, which showcases how I have learned to synthesize my knowledge of the role of moving image archives in the context of an evolving digital culture.&lt;/i&gt;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, December 14, 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_ASIFA-Hollywood_Animation_Archive_Strategic_Plan_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>
