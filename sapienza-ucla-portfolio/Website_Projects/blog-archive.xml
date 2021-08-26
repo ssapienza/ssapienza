@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Website Projects</title>
+    <link>https://www.stephaniesapienza.com/sapienza-ucla-portfolio/Website_Projects</link>
+    <description>During the program, I completed two websites as final term projects in two classes.  Click on the links below for more information and highlights from each site project.</description>
+    <item>
+      <title>Les Clark Research Project</title>
+      <link>https://www.stephaniesapienza.com/sapienza-ucla-portfolio/Website_Projects/Entries/2007/6/15_Les_Clark_Research_Project.html</link>
+      <guid isPermaLink="false">4f81a3b0-7426-41cd-b992-c4187782a309</guid>
+      <pubDate>Fri, 15 Jun 2007 03:00:00 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/sapienza-ucla-portfolio/Website_Projects/Entries/2007/6/15_Les_Clark_Research_Project.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Disney Restoration Project</title>
+      <link>https://www.stephaniesapienza.com/sapienza-ucla-portfolio/Website_Projects/Entries/2007/3/23_Disney_Restoration_Project.html</link>
+      <guid isPermaLink="false">92700117-c900-40a9-a200-e11563e7b093</guid>
+      <pubDate>Fri, 23 Mar 2007 03:00:00 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/sapienza-ucla-portfolio/Website_Projects/Entries/2007/3/23_Disney_Restoration_Project.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>https://www.stephaniesapienza.com/sapienza-ucla-portfolio/Website_Projects</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

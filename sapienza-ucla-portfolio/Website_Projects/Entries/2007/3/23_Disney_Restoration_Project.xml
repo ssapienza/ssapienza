@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="3E9965FA-E5D9-4930-8EF3-1BA837FE0A95">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:38:14 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Disney Restoration Project</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;The term project for the Archaeology of the Medium class (MIAS 220) was to trace the development of a particular filming technology and then relate it to an aspect of current archival practice.  For my project, I completed a website about Disney Animation filming technologies, and how they relate to their current restoration practices.&lt;/i&gt;&#xD;&#xD;&lt;i&gt;Please click on the images below to enter two sample pages on the site.  To return to the main portfolio site, click the back button on your browser. &#xD;&#xD;&#xD;&#xD;&lt;/i&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, March 23, 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Disney_Restoration_Project_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

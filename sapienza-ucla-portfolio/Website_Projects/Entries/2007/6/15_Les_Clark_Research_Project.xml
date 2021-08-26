@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="3E9965FA-E5D9-4930-8EF3-1BA837FE0A95">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:38:13 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Les Clark Research Project</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;This research project about Disney animator Les Clark, completed as part of an independent study on the history of Disney Animation, culminated in a website that contained a biographical profile, an article, photos, clip reels and a bibliographic page with both print and electronic resources.  &#xD;&#xD;Please click on the images below to enter two sample pages on the site.  To return to the main portfolio site, click the back button on your browser. &lt;/i&gt;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, June 15, 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Les_Clark_Research_Project_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>
