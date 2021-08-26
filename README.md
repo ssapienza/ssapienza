@@ -1,4 +1,6 @@
 ------
+**Home**  
+
 **[Research](https://www.stephaniesapienza.com/current-research)**  
 
 **[Publications & Presentations](https://www.stephaniesapienza.com/awards-presentations)**  
