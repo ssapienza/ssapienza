@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="C2F501EC-6566-4480-9F35-7E27A9CA1B7F">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:42:00 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Ron Barbagallo</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Ron Barbagallo is an animation art conservator who works on both corporate and private restoration and conservation projects.  Some of his clients include Disney, Warner Brothers, Hanna Barbera, and Roy E. Disney&#x2019;s personal animation art collection.  View his full biography at:&#xD;www dot animationartconservation dot com slash biography dot html</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;March 2, 2007&lt;/b&gt;</richText>
+  </textBox>
+</content>

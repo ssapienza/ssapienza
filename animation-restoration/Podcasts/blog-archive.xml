@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Podcasts</title>
+    <link>https://www.stephaniesapienza.com/animation-restoration/Podcasts</link>
+    <description>I interviewed four different experts in three different areas related to animation - animation cel art, early animation filming techniques and restoration technologies.</description>
+    <item>
+      <title>Stephen Worth</title>
+      <link>https://www.stephaniesapienza.com/animation-restoration/Podcasts/Entries/2007/3/15_Stephen_Worth.html</link>
+      <guid isPermaLink="false">ae4bd928-2ff9-446c-adf9-3b3a9dccbf0c</guid>
+      <pubDate>Thu, 15 Mar 2007 03:00:00 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/animation-restoration/Podcasts/Entries/2007/3/15_Stephen_Worth.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Theo Gluck</title>
+      <link>https://www.stephaniesapienza.com/animation-restoration/Podcasts/Entries/2007/3/5_Theo_Gluck.html</link>
+      <guid isPermaLink="false">633bb2b7-7f8f-46f8-b958-541fd0239010</guid>
+      <pubDate>Mon, 5 Mar 2007 03:00:00 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/animation-restoration/Podcasts/Entries/2007/3/5_Theo_Gluck.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Ron Barbagallo</title>
+      <link>https://www.stephaniesapienza.com/animation-restoration/Podcasts/Entries/2007/3/2_Ron_Barbagallo.html</link>
+      <guid isPermaLink="false">c0febf58-76e0-4c88-bc09-8e6d7cf03681</guid>
+      <pubDate>Fri, 2 Mar 2007 03:00:00 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/animation-restoration/Podcasts/Entries/2007/3/2_Ron_Barbagallo.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>MMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>https://www.stephaniesapienza.com/animation-restoration/Podcasts</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

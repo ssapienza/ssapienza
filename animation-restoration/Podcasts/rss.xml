@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Podcasts</title>
+    <link>https://www.stephaniesapienza.com/animation-restoration/Podcasts/Podcasts.html</link>
+    <description>I interviewed four different experts in three different areas related to animation - animation cel art, early animation filming techniques and restoration technologies.</description>
+    <generator>iWeb 3.0.2</generator>
+    <image>
+      <url>https://www.stephaniesapienza.com/animation-restoration/Podcasts/Podcasts_files/podcast%20top.jpg</url>
+      <title>Podcasts</title>
+      <link>https://www.stephaniesapienza.com/animation-restoration/Podcasts/Podcasts.html</link>
+    </image>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>I interviewed four different experts in three different areas related to animation - animation cel art, early animation filming techniques and restoration technologies.</itunes:subtitle>
+    <itunes:summary>I interviewed four different experts in three different areas related to animation - animation cel art, early animation filming techniques and restoration technologies.</itunes:summary>
+    <itunes:image href="https://www.stephaniesapienza.com/animation-restoration/Podcasts/Podcasts_files/podcast%20top.jpg"/>
+    <language>en</language>
+    <item>
+      <title>Stephen Worth</title>
+      <link>https://www.stephaniesapienza.com/animation-restoration/Podcasts/Entries/2007/3/15_Stephen_Worth.html</link>
+      <guid isPermaLink="false">ae4bd928-2ff9-446c-adf9-3b3a9dccbf0c</guid>
+      <pubDate>Thu, 15 Mar 2007 03:00:00 -0400</pubDate>
+      <description>&lt;a href=&quot;https://www.stephaniesapienza.com/animation-restoration/Media/Stephenworthedited-1.m4a&quot;&gt;&lt;img src=&quot;https://www.stephaniesapienza.com/animation-restoration/Podcasts/Media/podcast-large_2.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:157px;&quot;/&gt;&lt;/a&gt;Stephen is the director of the ASIFA animation archive in Hollywood.  He has also worked as a post production supervisor and an animation art conservator.</description>
+      <enclosure url="https://www.stephaniesapienza.com/animation-restoration/Media/Stephenworthedited-1.m4a" length="7412855" type="audio/mp4"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Stephanie Sapienza</itunes:author>
+      <itunes:duration>00:15:01</itunes:duration>
+      <itunes:subtitle>Stephen is the director of the ASIFA animation archive in Hollywood.  He has also worked as a post production supervisor and an animation art conservator.</itunes:subtitle>
+      <itunes:summary>Stephen is the director of the ASIFA animation archive in Hollywood.  He has also worked as a post production supervisor and an animation art conservator.</itunes:summary>
+    </item>
+    <item>
+      <title>Theo Gluck</title>
+      <link>https://www.stephaniesapienza.com/animation-restoration/Podcasts/Entries/2007/3/5_Theo_Gluck.html</link>
+      <guid isPermaLink="false">633bb2b7-7f8f-46f8-b958-541fd0239010</guid>
+      <pubDate>Mon, 5 Mar 2007 03:00:00 -0500</pubDate>
+      <description>&lt;a href=&quot;https://www.stephaniesapienza.com/animation-restoration/Media/Theoedited.m4a&quot;&gt;&lt;img src=&quot;https://www.stephaniesapienza.com/animation-restoration/Podcasts/Media/Theo%20Gluck1_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:160px; height:118px;&quot;/&gt;&lt;/a&gt; </description>
+      <enclosure url="https://www.stephaniesapienza.com/animation-restoration/Media/Theoedited.m4a" length="8636803" type="audio/mp4"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Stephanie Sapienza</itunes:author>
+      <itunes:duration>00:17:29</itunes:duration>
+      <itunes:subtitle>Theo Gluck</itunes:subtitle>
+      <itunes:summary>Theo Gluck</itunes:summary>
+    </item>
+    <item>
+      <title>Ron Barbagallo</title>
+      <link>https://www.stephaniesapienza.com/animation-restoration/Podcasts/Entries/2007/3/2_Ron_Barbagallo.html</link>
+      <guid isPermaLink="false">c0febf58-76e0-4c88-bc09-8e6d7cf03681</guid>
+      <pubDate>Fri, 2 Mar 2007 03:00:00 -0500</pubDate>
+      <description>&lt;a href=&quot;https://www.stephaniesapienza.com/animation-restoration/Media/RonBarbagallo.m4a&quot;&gt;&lt;img src=&quot;https://www.stephaniesapienza.com/animation-restoration/Podcasts/Media/podcast-large_3.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:157px;&quot;/&gt;&lt;/a&gt;Ron Barbagallo is an animation art conservator who works on both corporate and private restoration and conservation projects.  Some of his clients include Disney, Warner Brothers, Hanna Barbera, and Roy E. Disney’s personal animation art collection.  View his full biography at:&lt;br/&gt;www dot animationartconservation dot com slash biography dot html</description>
+      <enclosure url="https://www.stephaniesapienza.com/animation-restoration/Media/RonBarbagallo.m4a" length="8775515" type="audio/mp4"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Stephanie Sapienza</itunes:author>
+      <itunes:duration>00:17:48</itunes:duration>
+      <itunes:subtitle>Ron Barbagallo is an animation art conservator who works on both corporate and private restoration and conservation projects.  Some of his clients include Disney, Warner Brothers, Hanna Barbera, and Roy E. Disney’s personal animation art collection</itunes:subtitle>
+      <itunes:summary>Ron Barbagallo is an animation art conservator who works on both corporate and private restoration and conservation projects.  Some of his clients include Disney, Warner Brothers, Hanna Barbera, and Roy E. Disney’s personal animation art collection.  View his full biography at:&#13;www dot animationartconservation dot com slash biography dot html</itunes:summary>
+    </item>
+  </channel>
+</rss>
