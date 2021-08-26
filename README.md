@@ -1,8 +1,11 @@
 ------
-**[Research](https://www.stephaniesapienza.com/current-research)**
-**[Publications & Presentations](https://www.stephaniesapienza.com/awards-presentations)**
-**[Awards](https://www.stephaniesapienza.com/copy-of-awards-presentations)**
----
+**[Research](https://www.stephaniesapienza.com/current-research)**  
+
+**[Publications & Presentations](https://www.stephaniesapienza.com/awards-presentations)**  
+
+**[Awards](https://www.stephaniesapienza.com/copy-of-awards-presentations)**  
+
+-----
 
 
 
