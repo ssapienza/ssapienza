@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="78294C64-ED99-460D-A092-4A24FF220645">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:41:41 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Multiplane Camera</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>In the tradition of what he called "our school of self-improvement,"1 Walt Disney patented the Multiplane camera on November 16,1936, with the help of inventor William E. Garity.  The purpose of the camera was to create an illusion of realistic depth that was not previously possible in flat 2-D animation. In the behind-the-scenes featurette &lt;i&gt;Tricks of the Trade&lt;/i&gt;, originally broadcast on television show in 1957, Walt explained the process and illustrated the way animators traditionally created depth. With clips for illustration, the piece shows how the traditional methods work for certain scenes, such as a pan with one character walking left to right across a relatively simple background. According to a 1938 article in American Cinematographer,&#xD;&#xD; &#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Creating deep forests &lt;/b&gt;&lt;b&gt;March 30, 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_The_Multiplane_Camera_files/multiplane%20walt%20hand.jpg" left="0px" top="0px" width="351px" height="262.264px"/>
+</content>

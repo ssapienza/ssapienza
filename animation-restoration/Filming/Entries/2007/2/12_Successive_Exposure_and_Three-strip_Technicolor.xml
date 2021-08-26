@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="78294C64-ED99-460D-A092-4A24FF220645">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:41:39 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Successive Exposure and &#x201C;Three-strip&#x201D; Technicolor</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Color is a factor that many modern consumers take for granted, but the early years of the development of color technology were a period of great innovation and creativity on the part of the engineers who invented these processes.  Color is especially important for animation, for which the capacity to represent realistic situations is limited by the drawn image.  &#xD;&#xD;Many color processes came and went throughout the first 50 years of film technology, some of which included Kinemacolor, Primsacolor, Multicolor, and Cinecolor.1  When Technicolor modified its two-color techniques into a revolutionary three-color system, the goal of reaching truly realistic color schemes on the film screen started to become a reality, and every producer wanted to utilize the technique, including Disney.  Disney and Technicolor founder Herbert Kalmus signed a contract giving Disney a five-year exclusive rights for five years to use the process, but this was shortened to one year by pressure from the other studios, who were not thrilled about the prospect of being left behind in the ashes of the two-color processes they were allowed to use.2&#xD;&#xD;Disney shot the first short that utilized three-strip color with the Silly Symphony short Flowers and Trees.  Scott Higgins quotes Kalmus in an article that details how Technicolor used animation as a tool to sell the product to other producers,&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Three strips of color means more for the eye&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Successive_Exposure_and_Three-strip_Technicolor_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

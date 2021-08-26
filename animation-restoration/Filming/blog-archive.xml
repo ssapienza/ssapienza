@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Filming</title>
+    <link>https://www.stephaniesapienza.com/animation-restoration/Filming</link>
+    <description>Early animation techniques used by Disney in the late 1930s to 1950&#x2019;s were at the forefront of innovation in terms of color and filming technology.  Click on the short articles below to read about some of these technologies and how the the studio&#x2019;s filming choices laid the groundwork for how archival work and restoration is approached today.</description>
+    <item>
+      <title>CinemaScope and Technirama</title>
+      <link>https://www.stephaniesapienza.com/animation-restoration/Filming/Entries/2007/3/27_CinemaScope_and_Technirama.html</link>
+      <guid isPermaLink="false">ed251b04-0f29-41f9-8b73-6a1f02617e4a</guid>
+      <pubDate>Tue, 27 Mar 2007 19:44:52 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/animation-restoration/Filming/Entries/2007/3/27_CinemaScope_and_Technirama.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>The Multiplane Camera</title>
+      <link>https://www.stephaniesapienza.com/animation-restoration/Filming/Entries/2007/2/12_The_Multiplane_Camera.html</link>
+      <guid isPermaLink="false">a92f9651-d117-455b-a182-b86c7b8db9a4</guid>
+      <pubDate>Mon, 12 Feb 2007 21:05:27 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/animation-restoration/Filming/Entries/2007/2/12_The_Multiplane_Camera.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Successive Exposure and &#x201C;Three-strip&#x201D; Technicolor</title>
+      <link>https://www.stephaniesapienza.com/animation-restoration/Filming/Entries/2007/2/12_Successive_Exposure_and_Three-strip_Technicolor.html</link>
+      <guid isPermaLink="false">c9e5c2e4-5d87-4fc8-96d8-41809bd51b56</guid>
+      <pubDate>Mon, 12 Feb 2007 21:04:38 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/animation-restoration/Filming/Entries/2007/2/12_Successive_Exposure_and_Three-strip_Technicolor.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>https://www.stephaniesapienza.com/animation-restoration/Filming</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
