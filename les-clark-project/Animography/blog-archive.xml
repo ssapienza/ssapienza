@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Animography</title>
+    <link>https://www.stephaniesapienza.com/les-clark-project/Animography</link>
+    <description>The intent of this section is to show a progression of Clark&#x2019;s work and style, from his first animation on Skeleton Dance to his work on Sword in the Stone in 1963.  Even though Clark didn&#x2019;t retire until 1975, his last twelve years at the studio were spent directing, mostly informational and educational films.</description>
+    <item>
+      <title>Animography</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Animography/Entries/2007/6/9_Animography.html</link>
+      <guid isPermaLink="false">014d56a7-23ab-47f5-9a56-59f38cbfcd8d</guid>
+      <pubDate>Sat, 9 Jun 2007 21:50:38 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/les-clark-project/Animography/Entries/2007/6/9_Animography.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Clip Reel: 1929 - 1937</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Animography/Entries/2007/6/2_Clip_Reel__1929_-_1937.html</link>
+      <guid isPermaLink="false">3e5c814a-7d56-42f2-84bc-2f38db72f7b4</guid>
+      <pubDate>Sat, 2 Jun 2007 03:00:00 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/les-clark-project/Animography/Entries/2007/6/2_Clip_Reel__1929_-_1937.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Clip Reel: 1937 - 1963</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Animography/Entries/2007/6/1_Clip_Reel__1937_-_1963.html</link>
+      <guid isPermaLink="false">3727ca0a-8499-406e-b56e-46daaac29ace</guid>
+      <pubDate>Fri, 1 Jun 2007 03:00:00 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/les-clark-project/Animography/Entries/2007/6/1_Clip_Reel__1937_-_1963.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>MMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>https://www.stephaniesapienza.com/les-clark-project/Animography</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="294E4CDE-344D-4F46-B5D7-CA65F4912285">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:40:21 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Clip Reel: 1937 - 1963&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Here you can see Clark&#x2019;s work progress into a level of refinement that builds off of the &#x201C;learning curve&#x201D; of the first seven years.  The rhythmic animation that he perfected in the early Symphonies pays off in such sequences as the Sugarplum Fairies in Fantasia, and the train to Baia in The Three Caballeros.   You can also see how he perfected the movement of flying in such instances as (again) the Sugarplum Fairies scene, the song sequence in Song of the South, and Tinkerbell in the opening titles for Disneyland.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Jun 1, 2007&lt;/b&gt;</richText>
+  </textBox>
+</content>

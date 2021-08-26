@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Background</title>
+    <link>https://www.stephaniesapienza.com/les-clark-project/Background</link>
+    <description>Click on Basic Facts to get an overview of major moments in Les&#x2019;s career and life.  In Legacy, I&#x2019;ve included a brief essay that comments on the absence of Clark&#x2019;s history in the popular literature about the Disney studios.</description>
+    <item>
+      <title>Basic Facts</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Background/Entries/2007/6/11_Basic_Facts.html</link>
+      <guid isPermaLink="false">c837a547-ced6-408c-8275-02bcc03d46be</guid>
+      <pubDate>Mon, 11 Jun 2007 02:16:53 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/les-clark-project/Background/Entries/2007/6/11_Basic_Facts.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Legacy</title>
+      <link>https://www.stephaniesapienza.com/les-clark-project/Background/Entries/2007/6/11_Legacy.html</link>
+      <guid isPermaLink="false">8165a770-6d42-40a2-a7fa-99dccc3e20e7</guid>
+      <pubDate>Mon, 11 Jun 2007 02:16:32 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://www.stephaniesapienza.com/les-clark-project/Background/Entries/2007/6/11_Legacy.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>https://www.stephaniesapienza.com/les-clark-project/Background</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
