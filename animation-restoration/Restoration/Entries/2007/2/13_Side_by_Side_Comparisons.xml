@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="BC4FDE38-71B2-4ACE-AB4C-B3768E18B125">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:41:48 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Side by Side Comparisons</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;What does the final product look like?&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Side_by_Side_Comparisons_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

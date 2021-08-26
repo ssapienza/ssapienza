@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="BC4FDE38-71B2-4ACE-AB4C-B3768E18B125">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:41:52 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Digital Restoration</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>At the point where Gluck and his team have consulted all the research they have collated, they agree on their &#x201C;educated, noncombative guess,&#x201D; and proceed to digitally scan the film at 4K resolution to get ready for digital cleanup.  The company&#x2019;s preferred vendor for all their scanning and digital cleanup is DTS Digital Images (formerly Lowry Digital Images: &#xD;&lt;a href="http://www.dts.com/digital_images/movierestorations.php"&gt;http://www.dts.com/digital_images/movierestorations.php&lt;/a&gt;).  </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Digital cleanup and final output&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Digital_Restoration_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="BC4FDE38-71B2-4ACE-AB4C-B3768E18B125">
+  <lastEdited clientType="local-build-20210826" date="2021-08-26 14:41:54 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Research and Preparation</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The group of people that work on the restoration of Disney&#x2019;s   iconic animated features do not take their work lightly.  Because of the specificity of the animation process, the group must carefully piece together the disparate elements left to them by their predecessors 50, 60 years before - animation cel art, color tests, office correspondence between Walt and the animation team, image and sound print elements - and find a quorum that Restoration Director Theo Gluck calls &#x201C;an informed, educated, non-combative guess.&#x201D; &#xD;&#xD;The group is a combination of asset management coordinators, experts from the feature animation department and technicians and restorers from the Library and Restoration team.  The first thing they do is assess what print elements they have, for which they consult Disney&#x2019;s Worldwide Media Library system, which is maintained by the Media Asset Management team.  Scott Kelley directs this 50-employee department, &#x201C;We&#x2019;re a centralized group that provides media materials to all the operating units ... users go into the database and select what they want and we&#x2019;re the ones who pull and move it, track it and make sure it comes back safe.&#x201D;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Coming to the informed consensus&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Research_and_Preparation_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>
