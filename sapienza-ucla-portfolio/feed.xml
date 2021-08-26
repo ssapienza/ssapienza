@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:25E63029-5A28-4B5C-AEFC-84F0CFD3289C</id>
+ <title>Page list Atom feed</title>
+ <updated>2021-08-26T14:37:57-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:9EE70CF0-473E-480C-938F-A8A5BBE8B4C4</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">9EE70CF0-473E-480C-938F-A8A5BBE8B4C4</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2021-08-26T14:37:57.001-04:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6AF7855B-6485-4980-9873-02FA99BF5674</id>
+  <title>Introductory Statement</title>
+  <title xmlns="urn:iweb:">Introductory Statement</title>
+  <in-navbar xmlns="urn:iweb:">6AF7855B-6485-4980-9873-02FA99BF5674</in-navbar>
+  <link rel="alternate" href="Introductory_Statement.html"/>
+  <updated>2021-08-26T14:37:57.002-04:00</updated>
+  <content>Introductory Statement</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6FFB82CD-7F28-42C2-A48D-41FCD1E31103</id>
+  <title>Curriculum Vitae</title>
+  <title xmlns="urn:iweb:">Curriculum Vitae</title>
+  <in-navbar xmlns="urn:iweb:">6FFB82CD-7F28-42C2-A48D-41FCD1E31103</in-navbar>
+  <link rel="alternate" href="Curriculum_Vitae.html"/>
+  <updated>2021-08-26T14:37:57.003-04:00</updated>
+  <content>Curriculum Vitae</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:02D1725C-A378-47BB-8E93-43C33EA22CF1</id>
+  <title>Coursework</title>
+  <title xmlns="urn:iweb:">Coursework</title>
+  <in-navbar xmlns="urn:iweb:">02D1725C-A378-47BB-8E93-43C33EA22CF1</in-navbar>
+  <link rel="alternate" href="Coursework.html"/>
+  <updated>2021-08-26T14:37:57.004-04:00</updated>
+  <content>Coursework</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:759F532D-BB27-4CFD-A73F-BB8669DDD22F</id>
+  <title>Paper Excerpts</title>
+  <title xmlns="urn:iweb:">Paper Excerpts</title>
+  <in-navbar xmlns="urn:iweb:">759F532D-BB27-4CFD-A73F-BB8669DDD22F</in-navbar>
+  <link rel="alternate" href="Paper_Excerpts/Paper_Excerpts.html"/>
+  <updated>2005-09-20T21:08:38-04:00</updated>
+  <content>Paper Excerpts</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3D1F64C3-C1F6-45E7-AC9E-F55C33862E82</id>
+  <title>Website Projects</title>
+  <title xmlns="urn:iweb:">Website Projects</title>
+  <in-navbar xmlns="urn:iweb:">3D1F64C3-C1F6-45E7-AC9E-F55C33862E82</in-navbar>
+  <link rel="alternate" href="Website_Projects/Website_Projects.html"/>
+  <updated>2005-09-20T21:08:38-04:00</updated>
+  <content>Website Projects</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:378B0008-23FA-4FD3-A13C-D4ABF2570C5D</id>
+  <title>Practicum Podcasts</title>
+  <title xmlns="urn:iweb:">Practicum Podcasts</title>
+  <in-navbar xmlns="urn:iweb:">378B0008-23FA-4FD3-A13C-D4ABF2570C5D</in-navbar>
+  <link rel="alternate" href="Practicum_Podcasts.html"/>
+  <updated>2021-08-26T14:37:57.005-04:00</updated>
+  <content>Practicum Podcasts</content>
+ </entry>
+</feed>
