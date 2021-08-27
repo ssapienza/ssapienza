@@ -7,6 +7,8 @@
 
 This page is just a boring list. But many of the talks and writings linked to below are decidedly NOT boring. Well, maybe a little if you're not a public radio, archives, or film nerd. [But this one is definitely not boring](https://vimeo.com/419551316). Everyone says so.
 
+---
+
 "[Healing the Gap: Digital Humanities Methods for the Virtual Reunification of Split Media and Paper Collections](http://www.digitalhumanities.org/dhq/vol/15/1/000509/000509.html)," Peer-reviewed journal article in _Digital Humanities Quarterly_ Volume 15.1, Spring 2021.
 
 "[The Lakeland Digital Archive: Technology for a Community-Engaged Approach to Sharing History and Heritage](/images/latrobe-symposium.jpg)," Panel presentation at the Latrobe Chapter of the Society of Architectural Historians' symposium, 'Race, Ethnicity, and Architecture in the Nation’s Capital,' February 2021.
