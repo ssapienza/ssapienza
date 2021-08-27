@@ -1,13 +1,7 @@
-------
-**Home**  
-
-**[Research](/research.md)**  
-
-**[Publications & Presentations](/publications-presentations.md)**  
-
-**[Awards](https://www.stephaniesapienza.com/copy-of-awards-presentations)**  
-
------
+| **Home**      | **[Writing and Presentations](/writing-presentations.md)** |
+| :----------- | -----------: |
+| **[Research](/research.md)**          | **[Workshops and Teaching](/workshops-teaching.md)**       |
+|   **[Grants and Awards](/grants-awards.md)**   | **[Exhibition and Public Humanities](/exhibition-publichumanities.md)**      |
 
 
 
