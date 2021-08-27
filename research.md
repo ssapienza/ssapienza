@@ -1,16 +1,11 @@
-------
-**[Home](https://ssapienza.github.io/ssapienza/)**  
+| **[Home](https://ssapienza.github.io/ssapienza/)**      | **[Writing and Presentations](writing-presentations.md)** |
+| :----------- | -----------: |
+| **Research**          | **[Workshops and Teaching](/workshops-teaching.md)**       |
+|   **[Grants and Awards](/grants-awards.md)**   | **[Exhibition and Public Humanities](/exhibition-publichumanities.md)**      |
 
-**Research**  
-
-**[Publications & Presentations](https://www.stephaniesapienza.com/awards-presentations)**  
-
-**[Awards](https://www.stephaniesapienza.com/copy-of-awards-presentations)**  
-
------
 ## Research Highlights
 
-Some highlights from my favorite current and past projects. For a full list, download my CV.
+Some highlights from my favorite archival and research projects. For a full list, [download my CV](/documents/sapienza-cv.pdf).
 
 ### Unlocking the Airwaves ###
 ![Unlocking the Airwaves logo](https://mith.umd.edu/static/546d9202d06dddb774053499a504b299/e2891/header_uta.webp)
@@ -37,3 +32,23 @@ The American Archive of Public Broadcasting is a large-scale public broadcasting
 ![AMS Screencap1](/images/ams-screencap1.webp)  
 
 ![AMS Screencap2](/images/ams-screencap2.webp)
+
+### Alternative Projections ###
+![Alternative Projections Logo](images/alternative-projections.PNG)
+
+I was the Project Director on a Getty-funded grant project for Los Angeles Filmforum entitled _Alternative Projections: Experimental Film in LA 1945  -1980_, a historical survey and preservation project resulting in over 35 new oral histories, an academic symposium, a media-rich website and database and a 16+screening exhibition series. The project was part of the Getty’s _Pacific Standard Time_ initiative showcasing postwar art in Los Angeles.  
+
+This project was an all-time career highlight. I got to assemble a dream team Advisory Board of filmmakers, historians and curators; supervise the work of five researchers; travel all over the country shooting oral histories; organize [an academic symposium](/2010_Symposium.html) which included [screenings](/Symposium-Screenings.html), [panel presentations](/Symposium-Presentations.html), and [art installations/exhibits](/Symposium-SpecialEvents.html); supervise the curation of screenings all over LA in conjunction with other cultural organizations; and work with the Academy Film Archive to preserve select films and strike new prints for preservation and exhibition purposes. It was a rewarding three years of my life. 
+
+The [website for _Alternative Projections_](http://www.alternativeprojections.com/) was our final official digital publication about our work which was funded by the Getty grants. There you can see the database of films, artists, organizations and curators which comprised this era of rich artistic experimentation and innovation in the postwar era. Additionally, a book was published about the project, edited by Filmforum board member and advisory board member David James and Filmforum Executive Director Adam Hyman.
+
+![Alternative Projections Book Cover](/images/alt-proj-book.jpg)
+
+### Animation Restoration Website ###
+![Animation Restoration Website Screencap](/images/restoration-website.PNG)
+
+This is an oldie but a goodie. I excitedly just archived several older websites that I published while I was a graduate student at UCLA. This includes my final course project for the UCLA Moving Image Archive Studies course Archaeology of the Medium, taught by Michael Friend. 
+
+The website showcases various early technologies used in animation, and how modern-day animation restoration practice does (or does not) intersect with those technologies. I was working at the Disney Animation Research Library at the time and had access to many folks who gladly gave their time and expertise to give me insight into the processes they employed. Note that those podcasts are not playable/published on the archived site, at the request of the interviewees. 
+
+I ended up turning this into a longer paper for a subsequent course (Contemporary Restoration), titled "The Magnificent Umbers: Issues in Animation Restoration." [You can read that here too](/documents/ucla-mias210-restoration-final-paper.pdf), if you'd like :).
