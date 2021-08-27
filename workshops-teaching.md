@@ -3,7 +3,7 @@
 | **[Research](/research.md)**          | **Workshops and Teaching**       |
 |   **[Grants and Awards](/grants-awards.md)**   | **[Exhibition and Public Humanities](/exhibition-publichumanities.md)**      |
 
-### Workshops and Teaching ###
+## Workshops and Teaching ##
 
 The times when I am most useful, and people actually learn things by doing. 
 
