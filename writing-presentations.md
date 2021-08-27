@@ -1,21 +1,11 @@
-------
-**[Home](https://ssapienza.github.io/ssapienza/)**   
-
-**[Research](/research.md)** 
-
-**[Writing](/writing.md)**
-
-**Presentations**
-
-**[Workshops and Teaching](/workshops-teaching.md)**
-
-**[Exhibition and Public Humanities](/exhibition-publichumanities.md)**
-
-**[Grants and Awards](/grants-awards.md)**  
+| **[Home](https://ssapienza.github.io/ssapienza/)**      | **Writing and Presentations** |
+| ----------- | -----------: |
+| **[Research](/research.md)**          | **[Workshops and Teaching](/workshops-teaching.md)**       |
+|   **[Grants and Awards](/grants-awards.md)**   | **[Exhibition and Public Humanities](/exhibition-publichumanities.md)**      |
 
 -----
 
-### Presentations ###
+### Writing and Presentations ###
 
 "[The Lakeland Digital Archive: Technology for a Community-Engaged Approach to Sharing History and Heritage](/images/latrobe-symposium.jpg)," Panel presentation at the Latrobe Chapter of the Society of Architectural Historians' symposium, 'Race, Ethnicity, and Architecture in the Nation’s Capital,' February 2021.
 
