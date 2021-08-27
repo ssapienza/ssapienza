@@ -3,7 +3,7 @@
 
 **[Research](/research.md)**  
 
-**[Publications & Presentations](https://www.stephaniesapienza.com/awards-presentations)**  
+**[Publications & Presentations](/publications-presentations.md)**  
 
 **[Awards](https://www.stephaniesapienza.com/copy-of-awards-presentations)**  
 
