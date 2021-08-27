@@ -3,7 +3,7 @@
 | **[Research](/research.md)**          | **[Workshops and Teaching](/workshops-teaching.md)**       |
 |   **Grants and Awards**   | **[Exhibition and Public Humanities](/exhibition-publichumanities.md)**      |
 
-### Grants and Awards ###
+## Grants and Awards ##
 
 Sometimes people think I am cool and give me accolades and money. When I say 'me,' I mean me plus many other talented people I work with.
 
