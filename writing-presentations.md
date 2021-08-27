@@ -3,7 +3,7 @@
 | **[Research](/research.md)**          | **[Workshops and Teaching](/workshops-teaching.md)**       |
 |   **[Grants and Awards](/grants-awards.md)**   | **[Exhibition and Public Humanities](/exhibition-publichumanities.md)**      |
 
-### Writing and Presentations ###
+## Writing and Presentations ##
 
 This page is just a boring list. But many of the talks and writings linked to below are decidedly NOT boring. Well, maybe a little if you're not a public radio, archives, or film nerd. [But this one is definitely not boring](https://vimeo.com/419551316). Everyone says so.
 
