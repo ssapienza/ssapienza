@@ -3,7 +3,7 @@
 | **[Research](/research.md)**          | **[Workshops and Teaching](workshops-teaching.md)**       |
 |   **[Grants and Awards](/grants-awards.md)**   | **Exhibition and Public Humanities**      |
 
-### Exhibition and Public Humanities ###
+## Exhibition and Public Humanities ##
 
 I have a history going back 18 years of work in the public humanities. These range from exhibitions and screenings for Los Angeles Filmforum, an alternative film & video exhibition arts nonprofit which I was involved with for ten years, to my current position for which I formerly spearheaded MITH's [Digital Dialogues speaker series](https://mith.umd.edu/digital-dialogues/) for five years, as well as several conferences and special events. Below is only a partial list. 
 
