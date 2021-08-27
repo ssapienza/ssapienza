@@ -1,7 +1,7 @@
 ------
 **Home**  
 
-**[Research](/research)**  
+**[Research](/research.md)**  
 
 **[Publications & Presentations](https://www.stephaniesapienza.com/awards-presentations)**  
 
