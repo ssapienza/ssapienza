@@ -3,8 +3,6 @@
 | **[Research](/research.md)**          | **[Workshops and Teaching](/workshops-teaching.md)**       |
 |   **[Grants and Awards](/grants-awards.md)**   | **[Exhibition and Public Humanities](/exhibition-publichumanities.md)**      |
 
------
-
 ### Writing (:pencil2:) and Presentations (:microphone:) ###
 
 :pencil2: "[Healing the Gap: Digital Humanities Methods for the Virtual Reunification of Split Media and Paper Collections](http://www.digitalhumanities.org/dhq/vol/15/1/000509/000509.html)," Peer-reviewed journal article in _Digital Humanities Quarterly_ Volume 15.1, Spring 2021.
