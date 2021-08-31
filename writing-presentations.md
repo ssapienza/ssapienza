@@ -9,6 +9,8 @@ This page is just a boring list. But many of the talks and writings linked to be
 
 ---
 
+"[On Forks and Completion: Reflections on a Five-year Digital Humanities Project](https://mith.umd.edu/news/unlocking-the-airwaves-launch)," Blog post on the MITH website, July 2021.
+
 "[Healing the Gap: Digital Humanities Methods for the Virtual Reunification of Split Media and Paper Collections](http://www.digitalhumanities.org/dhq/vol/15/1/000509/000509.html)," Peer-reviewed journal article in _Digital Humanities Quarterly_ Volume 15.1, Spring 2021.
 
 "[The Lakeland Digital Archive: Technology for a Community-Engaged Approach to Sharing History and Heritage](/images/latrobe-symposium.jpg)," Panel presentation at the Latrobe Chapter of the Society of Architectural Historians' symposium, 'Race, Ethnicity, and Architecture in the Nation’s Capital,' February 2021.
@@ -18,6 +20,10 @@ This page is just a boring list. But many of the talks and writings linked to be
 “[Radio Collections at Scale: The Unlocking the Airwaves Project](/documents/amia-2019-presentation.pdf),’ Virtual presentation to the IIIF Archives Community Group, May 12, 2020.
 
 “Working Together on the Lakeland Digital Archive: A Justice-Centered Approach,” Group presentation at UMD’s 13th Annual English Graduate Student Conference (Abolition as Praxis in Literature, Rhetoric, and Culture), February 28, 2020.
+
+“Radio Collections at Scale: Unlocking the Airwaves project as a model A/V digital humanities project,” Presentation at the Association of Moving Image Archivists Annual Conference, Baltimore, MD, November 2019.
+
+"Digitizing and Reviving the Archives of the National Association of Educational Broadcasters," Presentation at the Society for Cinema & Media Studies Annual Conference, Seattle, WA, March 2019.
 
 “Speaking of Place: Adding Oral Histories to the Lakeland Digital Archive,” Presentation at Intentionally Digital, Intentionally Black, the national conference of the African American Digital Humanities (AADHum) Initiative, October 19, 2018.
 
