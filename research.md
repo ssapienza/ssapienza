@@ -46,8 +46,8 @@ The [website for _Alternative Projections_](http://www.alternativeprojections.co
 
 ### Animation Restoration Website ###
 
-This is an oldie but a goodie. I excitedly just archived several older websites that I published while I was a graduate student at UCLA. This includes my final course project for the UCLA Moving Image Archive Studies course Archaeology of the Medium, taught by Michael Friend. 
+This is an oldie but a goodie. I excitedly just archived several older websites that I published while I was a graduate student at UCLA. This includes my final course project (a website) for the UCLA Moving Image Archive Studies course Archaeology of the Medium, taught by Michael Friend. 
 
-The website showcases various early technologies used in animation, and how modern-day animation restoration practice does (or does not) intersect with those technologies. I was working at the Disney Animation Research Library at the time and had access to many folks who gladly gave their time and expertise to give me insight into the processes they employed. Note that those podcasts are not playable/published on the archived site, at the request of the interviewees. 
+[The website showcases various early technologies used in animation](/animation-restoration), and how modern-day animation restoration practice does (or does not) intersect with those technologies. I was working at the Disney Animation Research Library at the time and had access to many folks who gladly gave their time and expertise to give me insight into the processes they employed. Note that those podcasts are not playable/published on the archived site, at the request of the interviewees. 
 
 I ended up turning this into a longer paper for a subsequent course (Contemporary Restoration), titled "The Magnificent Umbers: Issues in Animation Restoration." [You can read that here too](/documents/ucla-mias210-restoration-final-paper.pdf), if you'd like :).
