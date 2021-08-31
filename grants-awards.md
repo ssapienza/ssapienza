@@ -23,6 +23,8 @@ Principal Investigator, "Alternative Projections: Experimental Film in LA 1945-8
 
 Principal Investigator, "Alternative Projections: Experimental Film in LA 1945-80," Getty Foundation Research and Planning Grant ($117,000), part of the initiative Pacific Standard Time: Art in LA 1945-1980, April 2009. To support historical and archival research, oral histories, and planning towards a [screening series/exhibition](https://www.alternativeprojections.com/screening-series/).
 
+---
+
 Recipient, Career Development Fellowship Grant, Association of American University Women (AAUW), 2007-08.
 
 Recipient, Mary Pickford Scholarship, Association of Moving Image Archivists (AMIA), 2007-08.
