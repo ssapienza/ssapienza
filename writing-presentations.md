@@ -10,6 +10,10 @@ This page is just a boring list. But many of the talks and writings linked to be
 ---
 Hoyt, E., Sapienza, S., St. John, M. “Back to Sound School: Revisiting the Aesthetic Norms of 1950s and 1960s Educational Radio”. in _Oxford Handbook of Radio Studies_, M. Hilmes & A. J. Bottomley (Eds.), publication in fall 2022. 
 
+"Compassionate Design: Love, Care, & Justice in the Lakeland Digital Archive", Panel presentation at the [Inward Outward Symposium: Emotion in the Archive](https://inwardoutward.nl/symposium/emotion-in-the-archive-2021/), The Netherlands Institute for Sound and Vision, October 2021. 
+
+"[The NAEB's Programs for the Disadvantaged](https://www.unlockingtheairwaves.org/exhibits/the-naebs-programs-for-the-disadvantaged/)," Digital exhibit, Unlocking the Airwaves, July 2021.  
+
 "[On Forks and Completion: Reflections on a Five-year Digital Humanities Project](https://mith.umd.edu/news/unlocking-the-airwaves-launch)," Blog post on the MITH website, July 2021.
 
 "[Healing the Gap: Digital Humanities Methods for the Virtual Reunification of Split Media and Paper Collections](http://www.digitalhumanities.org/dhq/vol/15/1/000509/000509.html)," Peer-reviewed journal article in _Digital Humanities Quarterly_ Volume 15.1, Spring 2021.
