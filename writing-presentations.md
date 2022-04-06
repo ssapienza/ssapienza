@@ -8,6 +8,7 @@
 This page is just a boring list. But many of the talks and writings linked to below are decidedly NOT boring. Well, maybe a little if you're not a public radio, archives, or film nerd. [But this one is definitely not boring](https://vimeo.com/419551316). Everyone says so.
 
 ---
+Hoyt, E., Sapienza, S., St. John, M. “Back to Sound School: Revisiting the Aesthetic Norms of 1950s and 1960s Educational Radio”. in _Oxford Handbook of Radio Studies_, M. Hilmes & A. J. Bottomley (Eds.), publication in fall 2022. 
 
 "[On Forks and Completion: Reflections on a Five-year Digital Humanities Project](https://mith.umd.edu/news/unlocking-the-airwaves-launch)," Blog post on the MITH website, July 2021.
 
