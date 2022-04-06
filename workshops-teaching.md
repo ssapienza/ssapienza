@@ -8,6 +8,9 @@
 The times when I am most useful, and people actually learn things by doing. 
 
 ---
+[Case Study: The Lakeland Community Heritage Project](https://publicdh.org/case-studies/lakeland-community-heritage-project/), Instructor for the Public Digital Humanities Institute, hosted by the Institute for Digital Research in the Humanities at the University of Kansas, June 2022.
+
+[CINE 419E: Digital Storytelling with Archives](https://app.testudo.umd.edu/soc/202201/CINE/CINE419E). University of Maryland undergraduate/graduate course, cross-listed with Cinema & Media Studies, Spring 2022.
 
 "[Digital Storytelling Using Audio Primary Sources](https://prezi.com/view/0m6CZbn09IWije3JeUva/)," Workshop for the [California History-Social Science Project](https://chssp.sf.ucdavis.edu/events/digital-storytelling-using-audio-primary-sources-workshop), July 2021. [View the full resource list here](https://airtable.com/shrJpBTuqaRDcpnQr).
 
