@@ -8,6 +8,13 @@
 Some highlights from my favorite archival and research projects. For a full list, [download my CV](/documents/sapienza-cv.pdf).
 
 ---
+![Sound Submissions logo](/images/sound-submissions-logo.jpg)
+
+### Sound Submissions ###
+
+I'm currently the Research Director for [Sound Submissions](https://www.loc.gov/programs/national-recording-preservation-plan/about-this-program/radio-preservation-task-force/current-projects/sound-submissions/), a project of The Radio Preservation Task Force (RPTF) of the Library of Congress National Recording Preservation Board. Sound Submissions is a digital humanities program in the Recorded Sound Section of the Library’s National Audio-Visual Conservation Center (NAVCC). Sound Submissions establishes a curatorial team to facilitate donations of digitized recordings and associated metadata for ingestion into the Library’s permanent digital archive. This is a service appointment held alongside my full time faculty position at UMD/MITH.  
+
+---
 ![Unlocking the Airwaves logo](https://mith.umd.edu/static/546d9202d06dddb774053499a504b299/e2891/header_uta.webp)
 
 ### Unlocking the Airwaves ###
@@ -16,7 +23,7 @@ This is a project five years in the making, which directly built on my previous 
 
 Before the ubiquity of National Public Radio (NPR) and the Public Broadcasting Service (PBS), the National Association of Educational Broadcasters (NAEB) was the primary institution responsible for promoting and distributing public broadcasting content in the United States. The NAEB collections, which are currently split between the University of Maryland (audio) and the Wisconsin Historical Society (paper collections), provide an in-depth look at the messages being broadcast to the general public through the rubric of ‘educational radio,’ which predated (and heavily informed) what we now know as public radio, between 1950-1970. 
 
-The Airwaves website application virtually reunifies the split collections of the NAEB to tell the story of early educational and public broadcasting, along with curatorial enhancements such as digital exhibits and visualizations. To do this, we used a lot of different strategies from both the digital humanities and archival studies: virtual reunification, linked data, minimal computing, static site generation, and synced audio/transcripts for the radio broadcasts. This project was funded by a grant from the National Endowment for the Humanities.
+The [Airwaves website application](https://unlockingtheairwaves.org/) virtually reunifies the split collections of the NAEB to tell the story of early educational and public broadcasting, along with curatorial enhancements such as digital exhibits and visualizations. To do this, we used a lot of different strategies from both the digital humanities and archival studies: virtual reunification, linked data, minimal computing, static site generation, and synced audio/transcripts for the radio broadcasts. This project was funded by a grant from the National Endowment for the Humanities (NEH). The NEH also funded a linked data-centric sequel project, [Broadcasting Audiovisual Data](https://mith.umd.edu/research/broadcasting-av-data/), which is currently ongoing as well. 
 
 ---
 ![Lakeland Video Logo](/images/lakeland-heritage.PNG)
