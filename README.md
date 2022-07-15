@@ -7,9 +7,9 @@
 
 ## This is Professional Stephanie.
 
-Currently I'm the Digital Humanities Archivist at the Maryland Institute for Technology in the Humanities (MITH) at University of Maryland, where I develop and implement digital research projects with a targeted focus on archival, digital curation, research data, digital library, and digital stewardship activities.
+Currently I'm the Digital Humanities Archivist at the Maryland Institute for Technology in the Humanities (MITH) at University of Maryland, where I serve as a senior member of the research and development team for several projects and initiatives with a targeted focus on archival, digital curation, research data, digital library, and digital stewardship activities. 
 
-My research revolves around the intersections between digital humanities, libraries, and audiovisual archives: how archival audiovisual media objects function as primary historical documents, and what kind of digital resources and user interfaces facilitate the means for exploring that media in the context of its original production and reception. I'm also interested in the stewardship of digital humanities projects and research data, including streamlining project management, documentation, and sustainability processes.
+My research revolves around using digital humanities methods alongside archival standards to reframe and contextualize historic media collections through the lens of their original production, reception, and networked distribution. I'm an affiliate faculty member of UMD's Cinema and Media Studies (CMS) department, where I teach a course on digital storytelling using archives. I'm also interested in the stewardship of digital humanities projects and research data, including streamlining project management, documentation, and sustainability processes.
 
 In the past, I was the Project Manager for the [American Archive of Public Broadcasting](https://americanarchive.org/about-the-american-archive) at the Corporation for Public Broadcasting, where I managed strategic and operational planning for metadata and digitization initiatives involving 120 public broadcasting stations, over 2 million inventory records, and the digitization of 40,000 hours of content.
 
