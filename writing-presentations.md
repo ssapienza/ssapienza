@@ -38,7 +38,7 @@ Presenter/Panelist, Metadata Infrastructure panel, Radio Preservation Task Force
 
 "[Audiovisual media is not an island: How relating paper and media collections can enhance discoverability](https://www.henrystewartpublications.com/jdmm/v5)," Journal article in _The Journal of Digital Media Management_, Summer 2017 (Volume 5, No. 4).
 
-"The Films of Shane Carruth and Biological 'Databases' of Connectivity," Presentation at _Textual Embodiments_, the Society for Textual Scholarship 2017 Annual Conference, College Park, MD, June 2017.
+"[The Films of Shane Carruth and Biological 'Databases' of Connectivity](https://youtu.be/nAfN7UNwKYM)," Presentation at _Textual Embodiments_, the Society for Textual Scholarship 2017 Annual Conference, College Park, MD, June 2017.
 
 “Documenting Provenance: Out of Our Heads and into the Database,” Presentation at the Association of Moving Image Archivists Annual Conference, Pittsburgh, PA, November 2016.
 
