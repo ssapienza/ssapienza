@@ -18,7 +18,7 @@ The times when I am most useful, and people actually learn things by doing.
 
 "[Digital Storytelling Using Audio Primary Sources](https://prezi.com/view/0m6CZbn09IWije3JeUva/)," Workshop for the [California History-Social Science Project](https://chssp.sf.ucdavis.edu/events/digital-storytelling-using-audio-primary-sources-workshop), July 2021. [View the full resource list here](https://airtable.com/shrJpBTuqaRDcpnQr).
 
-“[Airtable for Audiovisual Archivists]([http://www.amiaonline.org/?p=531](https://web.archive.org/web/20210829234723/http://www.amiaonline.org/?p=531),” Two-day virtual workshop for the Association of Moving Image Archivists Continuing Education Advisory Task Force, May 20-21, 2020.
+“[Airtable for Audiovisual Archivists](https://web.archive.org/web/20210829234723/http://www.amiaonline.org/?p=531),” Two-day virtual workshop for the Association of Moving Image Archivists Continuing Education Advisory Task Force, May 20-21, 2020.
 
 “Airtable for Audiovisual Archivists,” Workshop at the Association of Moving Image Archivists Annual Conference, Baltimore, MD, November 2019.
 
