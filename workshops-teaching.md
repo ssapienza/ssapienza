@@ -8,13 +8,17 @@
 The times when I am most useful, and people actually learn things by doing. 
 
 ---
-[Case Study: The Lakeland Community Heritage Project](https://publicdh.org/case-studies/lakeland-community-heritage-project/), Instructor for the Public Digital Humanities Institute, hosted by the Institute for Digital Research in the Humanities at the University of Kansas, June 2022.
+"Platforms and Practices for Activating Community Knowledge," Association for Information Science and Technology (ASIS&T) Virtual Research Symposium. Co-presented with Maxine Gross on the Lakeland Digital Archive, March 2023.
 
-[CINE 419E: Digital Storytelling with Archives](https://app.testudo.umd.edu/soc/202201/CINE/CINE419E). University of Maryland undergraduate/graduate course, cross-listed with Cinema & Media Studies, Spring 2022.
+[CINE 419E: Digital Storytelling with Archives](https://app.testudo.umd.edu/soc/202201/CINE/CINE419E). University of Maryland undergraduate/graduate course, cross-listed with Cinema & Media Studies, Spring 2022; Spring 2023.
+
+["Collectors’ Knowledge – The Sound Submissions Project of the Radio Preservation Task Force](https://www.arsc-audio.org/pdf/ARSC_webinar_20220728_CollectorsKnowledge_flyer.pdf)," Association of Recorded Sound Collections (ARSC) Continuing Education Webinar, July 2022. [Link to Presentation Slides](https://www.canva.com/design/DAFHi7x7ef4/PrncEl6CnUV-xO6yCA2zNw/view?utm_content=DAFHi7x7ef4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+[Case Study: The Lakeland Community Heritage Project](https://publicdh.org/case-studies/lakeland-community-heritage-project/), Instructor for the Public Digital Humanities Institute, hosted by the Institute for Digital Research in the Humanities at the University of Kansas, June 2022.
 
 "[Digital Storytelling Using Audio Primary Sources](https://prezi.com/view/0m6CZbn09IWije3JeUva/)," Workshop for the [California History-Social Science Project](https://chssp.sf.ucdavis.edu/events/digital-storytelling-using-audio-primary-sources-workshop), July 2021. [View the full resource list here](https://airtable.com/shrJpBTuqaRDcpnQr).
 
-“[Airtable for Audiovisual Archivists](http://www.amiaonline.org/?p=531),” Two-day virtual workshop for the Association of Moving Image Archivists Continuing Education Advisory Task Force, May 20-21, 2020.
+“[Airtable for Audiovisual Archivists]([http://www.amiaonline.org/?p=531](https://web.archive.org/web/20210829234723/http://www.amiaonline.org/?p=531),” Two-day virtual workshop for the Association of Moving Image Archivists Continuing Education Advisory Task Force, May 20-21, 2020.
 
 “Airtable for Audiovisual Archivists,” Workshop at the Association of Moving Image Archivists Annual Conference, Baltimore, MD, November 2019.
 
