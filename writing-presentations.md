@@ -10,7 +10,7 @@ This page is just a boring list. But many of the talks and writings linked to be
 ---
 Hoyt, E., Sapienza, S., St. John, M. “Back to Sound School: Revisiting the Aesthetic Norms of 1950s and 1960s Educational Radio”. in _Oxford Handbook of Radio Studies_, M. Hilmes & A. J. Bottomley (Eds.), publication in fall 2023.
 
-Matt St. John, Lauren E. Wilks, Stephanie Sapienza, Eric Hoyt; Access Amplified: Saving and Sharing a 1968 Detroit Audio Collection. _Resonance_ 1 September 2023; 4 (3): 246–259. doi: https://doi.org/10.1525/res.2023.4.3.246 [Link to full text article](/documents/resonance-access-amplified-article.pdf)
+Matt St. John, Lauren E. Wilks, Stephanie Sapienza, Eric Hoyt; Access Amplified: Saving and Sharing a 1968 Detroit Audio Collection. [_Resonance_](https://doi.org/10.1525/res.2023.4.3.246) 1 September 2023; 4 (3): 246–259. [Link to full text article](/documents/resonance-access-amplified-article.pdf)
 
 "Compassionate Design: Love, Care, & Justice in the Lakeland Digital Archive", Panel presentation at the [Inward Outward Symposium: Emotion in the Archive](https://inwardoutward.nl/symposium/emotion-in-the-archive-2021/), The Netherlands Institute for Sound and Vision, October 2021. 
 
