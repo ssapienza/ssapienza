@@ -5,14 +5,16 @@
 
 ## Research Highlights
 
-Some highlights from my favorite archival and research projects. For a full list, [download my CV](/documents/sapienza-cv.pdf).
+Some highlights from my favorite archival and research projects. For a full list, [download my CV](/documents/sapienza-cv-2024.pdf).
 
 ---
 ![Sound Submissions logo](/images/sound-submissions-logo.jpg)
 
 ### Sound Submissions ###
 
-I'm currently the Research Director for [Sound Submissions](https://www.loc.gov/programs/national-recording-preservation-plan/about-this-program/radio-preservation-task-force/current-projects/sound-submissions/), a project of The Radio Preservation Task Force (RPTF) of the Library of Congress National Recording Preservation Board. Sound Submissions is a digital humanities program in the Recorded Sound Section of the Library’s National Audio-Visual Conservation Center (NAVCC). Sound Submissions establishes a curatorial team to facilitate donations of digitized recordings and associated metadata for ingestion into the Library’s permanent digital archive. This is a service appointment held alongside my full time faculty position at UMD/MITH.  
+I'm currently the Research Director for [Sound Submissions](https://www.loc.gov/programs/national-recording-preservation-plan/about-this-program/radio-preservation-task-force/current-projects/sound-submissions/), a special initiative of the Radio Preservation Task Force (RPTF) at the Library of Congress, created to preserve and enhance access to endangered and marginalized sound collections. Often held by private collectors, these materials have the potential to diversify cultural and political representation within national archives. Many of these collections represent marginalized subjects or communities largely absent from the historical record, making their preservation critical for a more inclusive cultural narrative. However, they have faced significant challenges due to collectors' concerns about the lack of a neutral repository and fears of devaluation. As a result, these collections have often been classified as 'endangered' or 'orphaned,' existing on unstable formats or lacking proper storage conditions.
+
+Sound Submissions addresses these issues by providing collectors with a way to retain ownership of their materials while collaborating on access and preservation efforts. This can involve several strategies: ingesting collections into the Library of Congress's permanent digital archive, applying for funds to digitize analog materials, enhancing metadata for improved discovery and access, or promoting interpretation and use through innovative digital humanities practices. These efforts ensure that these vital pieces of history remain accessible to scholars, educators, and the public. This is a service appointment held alongside my full time faculty position at UMD/MITH.  
 
 ---
 ![Unlocking the Airwaves logo](https://mith.umd.edu/static/546d9202d06dddb774053499a504b299/e2891/header_uta.webp)
