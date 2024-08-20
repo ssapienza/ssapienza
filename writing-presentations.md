@@ -8,7 +8,7 @@
 This page is just a boring list. But many of the talks and writings linked to below are decidedly NOT boring. Well, maybe a little if you're not a public radio, archives, or film nerd. [But this one is definitely not boring](https://vimeo.com/419551316). Everyone says so.
 
 ---
-Hoyt, E., Sapienza, S., St. John, M. “Back to Sound School: Revisiting the Aesthetic Norms of 1950s and 1960s Educational Radio”. in _Oxford Handbook of Radio Studies_, M. Hilmes & A. J. Bottomley (Eds.), publication in fall 2023.
+Hoyt, E., Sapienza, S., St. John, M. “Back to Sound School: Revisiting the Aesthetic Norms of 1950s and 1960s Educational Radio”. in [_The Oxford Handbook of Radio and Podcasting_](https://global.oup.com/academic/product/the-oxford-handbook-of-radio-and-podcasting-9780197551127?cc=us&lang=en&#), M. Hilmes & A. J. Bottomley (Eds.), August 2024.
 
 Matt St. John, Lauren E. Wilks, Stephanie Sapienza, Eric Hoyt; Access Amplified: Saving and Sharing a 1968 Detroit Audio Collection. [_Resonance_](https://doi.org/10.1525/res.2023.4.3.246) 1 September 2023; 4 (3): 246–259. [Link to full text article](/documents/resonance-access-amplified-article.pdf)
 
@@ -50,9 +50,11 @@ Presenter/Panelist, Metadata Infrastructure panel, Radio Preservation Task Force
 
 Discussant, Metadata and Digital Archiving Panel, Saving America’s Radio Heritage: Radio Preservation, Access, and Education, Radio Preservation Task Force Conference, Washington, DC, February 2016.
 
+“Film & Friends at The Lookout, featuring historian Stephanie Sapienza,” Guest Curator and Presenter, The Lookout DC Filmmakers Collective, Washington, DC, January 2016. Presented on late-70’s CalArts filmmakers who worked on major blockbusters such as _Star Wars_, and screened experimental short films and oral history excerpts from the Alternative Projections project.
+
 “Virtual Reunification of Mixed Media Collections: A View from the Digital Humanities,” Presentation at the Association of Moving Image Archivists Annual Conference, Portland, OR, November 2015.
 
-“From the Desk of Modest Bob Pike: The Creative Film Society and Postwar Experimental Filmmaking Culture in LA,” Invited Presentation at Misfits 2015: Time-Based Media and the Museum, Carnegie Museum of Art, Pittsburgh, PA, October 2015. [Link to presentation video](https://vimeo.com/154202375).
+“From the Desk of Modest Bob Pike: The Creative Film Society and Postwar Experimental Filmmaking Culture in LA,” Invited Presentation at _Misfits 2015: Time-Based Media and the Museum_, Carnegie Museum of Art, Pittsburgh, PA, October 2015. [Link to presentation video](https://vimeo.com/154202375).
 
 “[Audiovisual Archives and the Context Conundrum](http://blog.commarts.wisc.edu/2015/07/13/audiovisual-archives-and-the-context-conundrum/),” Guest Blog Writer for the Radio Preservation Task Force series on the _Antenna_ media-cultural studies blog at University of Wisconsin-Madison, July 2015.
 
