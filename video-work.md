@@ -3,6 +3,9 @@
 Below are some highlights from my work with local musicians: music videos, archival remix pieces, motion-graphics loops for live shows, and longform VJ sets built from a combination of archival sources, animation. My background is in moving image archiving, so I tend to reach for historical and marginal footage, then layer it with bright color, geometric animation, and audio-reactive elements. 
 
 ---
+![Video Work Collage](https://stephaniesapienza.com/video-work-grid.png)
+
+---
 
 ## Recent / Featured Work
 
@@ -42,6 +45,7 @@ Stephanie Sapienza is a filmmaker and archivist based in Maryland. She has direc
 ## Contact
 
 For collaborations, commissions, or live visual work, please reach out at **[stephaniesapienza@gmail.com](mailto:stephaniesapienza@gmail.com)**.  
+
 
 
 
