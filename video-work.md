@@ -7,7 +7,7 @@ Below are some highlights from my work with local musicians: music videos, archi
 ## Recent / Featured Work
 
 ### Color Palette Collaboration (2025)
-For [Color Palette](https://www.colorpalettedc.com/), an indie dream pop band from Washington, DC led by songwriter and vocalist Jay Nemeyer, I created 14 looping projection visuals and two music videos that extend their lush, melodic sound into a visual language of light, motion, and memory. The most recent, *[Zombie](https://youtu.be/ooy9Cz-BiyQ?si=gcH54R_euYRSlJFi)* (2025), is a tribute to classic monster-movie imagery. I also cut together a video for their song Grateful which features live footage from the January 2025 show with audience-captured footage.
+For [Color Palette](https://www.colorpalettedc.com/), an indie dream pop band from Washington, DC led by songwriter and vocalist Jay Nemeyer, I created 14 looping projection visuals and two music videos that extend their lush, melodic sound into a visual language of light, motion, and memory. The most recent, *[Zombie](https://youtu.be/ooy9Cz-BiyQ?si=gcH54R_euYRSlJFi)* (2025), is a tribute to classic monster-movie imagery. I also cut together a video for their song *[Grateful](https://youtu.be/yr0B1_mDY5M?si=W_2C1v5tNpdqhLxH)* which features live footage from the January 2025 show with audience-captured footage.
 
 ### King of the Moon Collaboration (2025)
 A 12-song live performance video set for psychedelic rock duo [King of the Moon](https://custommademusicmag.com/2025/10/just-like-magic-an-interview-with-king-of-the-moon/), a collaboration between Sam Cooper and Michael Stettes. The album was recorded out in Montgomery County’s Agricultural Reserve, where Sam grew up, and that environment shaped a lot of the sound. My job was to translate that sense of space and atmosphere into moving images.
@@ -29,7 +29,7 @@ Stephanie Sapienza is a filmmaker and archivist based in Maryland. She has direc
 ## What I Do
 
 - **Music videos**  
-  Concept, archival sourcing, edit, and motion graphics — for bands, solo artists, and experimental projects.
+  Concept, archival sourcing, edit, and motion graphics for bands, solo artists, and experimental projects.
 - **Archival remix / found footage works**  
   Transforming public-domain and orphaned media into new audiovisual narratives.
 - **Live visuals / projection design**  
@@ -42,6 +42,7 @@ Stephanie Sapienza is a filmmaker and archivist based in Maryland. She has direc
 ## Contact
 
 For collaborations, commissions, or live visual work, please reach out at **[stephaniesapienza@gmail.com](mailto:stephaniesapienza@gmail.com)**.  
+
 
 
 
