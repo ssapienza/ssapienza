@@ -19,7 +19,6 @@ A 12-song live performance video set for psychedelic rock duo [King of the Moon]
 ### Mazerrati Star Collaboration (2023–24)
 A music video concept album with multidisciplinary artist and musician Skye Handler, for the band Mazerrati Star (formerly Ladygod). Featuring original music by Handler, the piece is a cycle of five videos charting a dark, nonlinear journey across motels and liminal landscapes. I also collaborated with Handler on the album art as well as the album's [Spotify video loops](https://open.spotify.com/album/6vNlH8SslFvDQAXGx0v26u?si=TqXeULp6RGWgHJD9nR1ccA). 
 [Watch the playlist →](https://www.youtube.com/playlist?list=PLyHw7jCunGo-k8SFY70Qn0o72imwfTEcP)  
-[Watch the unreleased *Little 56* video →](https://youtu.be/GyTu2DPLZmg?si=gkcBUNPrecMANJgZ)
 
 ---
 
@@ -45,6 +44,7 @@ Stephanie Sapienza is a filmmaker and archivist based in Maryland. She has direc
 ## Contact
 
 For collaborations, commissions, or live visual work, please reach out at **[stephaniesapienza@gmail.com](mailto:stephaniesapienza@gmail.com)**.  
+
 
 
 
