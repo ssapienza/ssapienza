@@ -14,7 +14,7 @@ For [Color Palette](https://www.colorpalettedc.com/), an indie dream pop band fr
 
 ### King of the Moon Collaboration (2025)
 A 12-song live performance video set for psychedelic rock duo [King of the Moon](https://custommademusicmag.com/2025/10/just-like-magic-an-interview-with-king-of-the-moon/), a collaboration between Sam Cooper and Michael Stettes. The album was recorded out in Montgomery County’s Agricultural Reserve, where Sam grew up, and that environment shaped a lot of the sound. My job was to translate that sense of space and atmosphere into moving images.
-[Watch the playlist →](https://www.youtube.com/playlist?list=PLyHw7jCunGo-k8SFY70Qn0o72imwfTEcP)  
+[Watch the playlist →](https://www.youtube.com/playlist?list=PLt3usmJFgzVORlL0u2GK_rMT1qQl2xs7u)  
 
 ### Mazerrati Star Collaboration (2023–24)
 A music video concept album with multidisciplinary artist and musician Skye Handler, for the band Mazerrati Star (formerly Ladygod). Featuring original music by Handler, the piece is a cycle of five videos charting a dark, nonlinear journey across motels and liminal landscapes. I also collaborated with Handler on the album art as well as the album's [Spotify video loops](https://open.spotify.com/album/6vNlH8SslFvDQAXGx0v26u?si=TqXeULp6RGWgHJD9nR1ccA). 
@@ -44,6 +44,7 @@ Stephanie Sapienza is a filmmaker and archivist based in Maryland. She has direc
 ## Contact
 
 For collaborations, commissions, or live visual work, please reach out at **[stephaniesapienza@gmail.com](mailto:stephaniesapienza@gmail.com)**.  
+
 
 
 
