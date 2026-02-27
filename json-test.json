@@ -1,0 +1,24 @@
+[
+  {
+    "itemLabel": "Absentee-Shawnee Tribe",
+    "QID": "Q4669719",
+    "item": "http://www.wikidata.org/entity/Q4669719",
+    "itemDescription": "Native American Nation",
+    "enwiki_title": "Absentee Shawnee Tribe of Indians",
+    "enwiki_url": "https://en.wikipedia.org/wiki/Absentee_Shawnee_Tribe_of_Indians",
+    "wikipedia_api_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Absentee_Shawnee_Tribe_of_Indians",
+    "wikipedia_lead": "The Absentee Shawnee Tribe of Indians of Oklahoma is one of three federally recognized tribes of Shawnee people. Historically residing in what became organized as the upper part of the Eastern United States, the original Shawnee lived in the large territory now made up of Pennsylvania, Kentucky, Tennessee, Ohio, Indiana, Illinois, and neighboring states. In total, they occupied and traveled through lands ranging from Canada to Florida, and from the Mississippi River to the eastern continental coast.",
+    "wd_entitydata_url": "https://www.wikidata.org/wiki/Special:EntityData/Q4669719.json",
+    "aliases_en": [
+      "Absentee-Shawnee Tribe of Indians of Oklahoma",
+      "Big Jim and White Turkey Bands of the Shawnee Nation of American Indians"
+    ],
+    "instance_of": [
+      "ethnic group",
+      "indigenous people",
+      "federally recognized Native American tribe in the United States"
+    ],
+    "official_website": "https://astribe.com",
+    "image": "Benjamin harjo jr.jpg"
+  }
+]
