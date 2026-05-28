@@ -9,6 +9,9 @@ Below are some highlights from my work with local musicians: music videos, archi
 
 ## Recent / Featured Work
 
+### Gemma Sky Collaboration (2026)
+A six-video projection suite for D.C.-based electropop artist [Gemma Sky](https://www.instagram.com/gemmaskymusic/), built around a visual language of neon pinks, purples, metallic textures, vintage glamour, and 1980s pop iconography. Created for her March 2026 set at Pie Shop, the visuals translate songs about romance, heartbreak, resilience, and feminine reinvention into looping backgrounds. I also created a custom animated logo loop designed to move between songs. [Watch "Don’t Mess With Me" on YouTube](https://www.youtube.com/watch?v=VArr0rPB0cM)
+
 ### Color Palette Collaboration (2025)
 For [Color Palette](https://www.colorpalettedc.com/), an indie dream pop band from Washington, DC led by songwriter and vocalist Jay Nemeyer, I created 14 looping projection visuals and two music videos that extend their lush, melodic sound into a visual language of light, motion, and memory. The most recent, *[Zombie](https://youtu.be/ooy9Cz-BiyQ?si=gcH54R_euYRSlJFi)* (2025), is a tribute to classic monster-movie imagery. I also cut together a video for their song *[Grateful](https://youtu.be/yr0B1_mDY5M?si=W_2C1v5tNpdqhLxH)* which features live footage from the January 2025 show with audience-captured footage.
 
@@ -17,14 +20,14 @@ A 12-song live performance video set for psychedelic rock duo [King of the Moon]
 [Watch the playlist →](https://www.youtube.com/playlist?list=PLt3usmJFgzVORlL0u2GK_rMT1qQl2xs7u)  
 
 ### Mazerrati Star Collaboration (2023–24)
-A music video concept album with multidisciplinary artist and musician Skye Handler, for the band Mazerrati Star (formerly Ladygod). Featuring original music by Handler, the piece is a cycle of five videos charting a dark, nonlinear journey across motels and liminal landscapes. I also collaborated with Handler on the album art as well as the album's [Spotify video loops](https://open.spotify.com/album/6vNlH8SslFvDQAXGx0v26u?si=TqXeULp6RGWgHJD9nR1ccA). 
+A music video concept album with multidisciplinary artist and musician Skye Handler, for the band Mazerrati Star (formerly Ladygod). Featuring original music by Handler, the piece is a cycle of five videos charting a dark, nonlinear journey across motels and liminal landscapes. I also collaborated with Handler on the album art as well as the album's [Spotify video loops](https://open.spotify.com/album/03uaYuD7NliLUKazqflyR4). 
 [Watch the playlist →](https://www.youtube.com/playlist?list=PLyHw7jCunGo-k8SFY70Qn0o72imwfTEcP)  
 
 ---
 
 ## About Me
 
-Stephanie Sapienza is a filmmaker and archivist based in Maryland. She has directed music videos and created live visuals for numerous local bands, blending a background in filmmaking with her career as a film archivist and historian specializing in experimental film, animation, and the reuse of archival imagery in new creative works. She is currently a digital archivist on the faculty at the University of Maryland, where she also teaches digital storytelling. Earlier in her career, she worked in Los Angeles on a range of independent films and documentaries, with credits including *The King of Kong: A Fistful of Quarters* (2007), *When Standup Stood Out* (2003), and *Tapped* (2009), as well as a large-scale historical project about the history of experimental film in postwar Los Angeles.
+Stephanie Sapienza is a filmmaker and archivist based in Maryland. She has directed music videos and created live visuals for numerous local bands, blending a background in filmmaking with her career as a film archivist and historian specializing in experimental film, animation, and orphaned film collections. She is currently a digital archivist on the faculty at the University of Maryland, where she also teaches digital storytelling and the reuse of archival imagery in new creative works. Earlier in her career, she worked in Los Angeles on a range of independent films and documentaries, with credits including *The King of Kong: A Fistful of Quarters* (2007), *When Standup Stood Out* (2003), and *Tapped* (2009), as well as (a large-scale historical project about the history of experimental film in postwar Los Angeles)[https://www.alternativeprojections.com/].
 
 ---
 
