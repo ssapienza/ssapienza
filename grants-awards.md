@@ -21,7 +21,7 @@ Recipient, **ARHU Advancement Grant**, University of Maryland College of Arts an
 
 Principal Investigator, "[Broadcasting Audiovisual Data: Using linked data and archival authority records to enhance discoverability for broadcasting collections](https://mith.umd.edu/research/broadcasting-av-data/)," National Endowment for the Humanities Digital Humanities Advancement Grant ($294,265), December 2020.
 
-![Unlocking the Airwaves logo](/images/uta-logo-full-square.jpg)
+![Unlocking the Airwaves logo](/images/uta-logo.png)
 
 Principal Investigator, "[Unlocking the Airwaves: Revitalizing an Early Public Radio Collection](https://mith.umd.edu/research/unlocking-the-airwaves/)," National Endowment for the Humanities Humanities Collections and Reference Resources grant ($217,000), April 2018.
 
