@@ -8,24 +8,40 @@
 Some highlights from my favorite archival and research projects. For a full list, [download my CV](/documents/sapienza-cv-2024.pdf).
 
 ---
-![Sound Submissions logo](/images/sound-submissions-logo.jpg)
+![Vision Maker Media logo](/images/vmm-logo.png)
 
-### Sound Submissions ###
+### Vision Maker Media Archival Stewardship
 
-I'm currently the Research Director for [Sound Submissions](https://www.loc.gov/programs/national-recording-preservation-plan/about-this-program/radio-preservation-task-force/current-projects/sound-submissions/), a special initiative of the Radio Preservation Task Force (RPTF) at the Library of Congress, created to preserve and enhance access to endangered and marginalized sound collections. Often held by private collectors, these materials have the potential to diversify cultural and political representation within national archives. Many of these collections represent marginalized subjects or communities largely absent from the historical record, making their preservation critical for a more inclusive cultural narrative. However, they have faced significant challenges due to collectors' concerns about the lack of a neutral repository and fears of devaluation. As a result, these collections have often been classified as 'endangered' or 'orphaned,' existing on unstable formats or lacking proper storage conditions.
+In 2025, I began leading a sponsored research consultancy at MITH for [Vision Maker Media (VMM)](https://visionmakermedia.org/), a nonprofit organization dedicated to supporting Native American and Indigenous filmmakers and media. The project focuses on improving preservation, discoverability, and public access for VMM's collection of 500+ digitized films, while developing sustainable systems and workflows that their staff can maintain independently.
 
-Sound Submissions addresses these issues by providing collectors with a way to retain ownership of their materials while collaborating on access and preservation efforts. This can involve several strategies: ingesting collections into the Library of Congress's permanent digital archive, applying for funds to digitize analog materials, enhancing metadata for improved discovery and access, or promoting interpretation and use through innovative digital humanities practices. These efforts ensure that these vital pieces of history remain accessible to scholars, educators, and the public. This is a service appointment held alongside my full time faculty position at UMD/MITH.  
+Working with MITH research software developer Raffaele Viglianti and VMM's archival and distribution teams, I've led the development of a relational metadata infrastructure using Airtable, integrating a substantial metadata overhaul and enhancement in preparation for hosting the collection in the Aviary access platform. This work also includes developing workflows for reconciling people, organizations, and cultural groups with external authority sources using linked data, as well as using AI-assisted workflows to extract named entities and subject terms from existing documentation.
+
+The project also involves developing documentation and training materials, and establishing sustainable practices for ongoing archival stewardship. This work builds on my previous research into connecting dispersed audiovisual collections through linked data, while addressing the particular challenges of supporting Indigenous-produced media and the organizations responsible for preserving and sharing it.
 
 ---
-![Unlocking the Airwaves logo](https://mith.umd.edu/static/546d9202d06dddb774053499a504b299/e2891/header_uta.webp)
+![Sound Submissions logo](/images/sound-submissions-logo.jpg)
 
-### Unlocking the Airwaves ###
+### Sound Submissions Project & Sound Collections Database
 
-This is a project five years in the making, which directly built on my previous work managing the American Archive of Public Broadcasting (see below). The project launched in July 2021. You can read my own personal journey on the MITH website: **[On Forks and Completion: Reflections on a Five-year Digital Humanities Project](https://mith.umd.edu/news/unlocking-the-airwaves-launch/)**.
+Since 2022, I've served as Research Director of the [Sound Submissions Project](https://www.loc.gov/programs/national-recording-preservation-plan/about-this-program/radio-preservation-task-force/current-projects/sound-submissions/), an initiative of the Radio Preservation Task Force (RPTF) associated with the Library of Congress. Sound Submissions works to preserve endangered and historically underrepresented sound collections, particularly those held by private collectors and under-resourced institutions. Using a *post-custodial* model, we develop collaborative preservation strategies that allow collectors to retain ownership of their materials while expanding opportunities for long-term preservation, access, and public engagement.
 
-Before the ubiquity of National Public Radio (NPR) and the Public Broadcasting Service (PBS), the National Association of Educational Broadcasters (NAEB) was the primary institution responsible for promoting and distributing public broadcasting content in the United States. The NAEB collections, which are currently split between the University of Maryland (audio) and the Wisconsin Historical Society (paper collections), provide an in-depth look at the messages being broadcast to the general public through the rubric of ‘educational radio,’ which predated (and heavily informed) what we now know as public radio, between 1950-1970. 
+My work involves developing curatorial priorities, cultivating institutional partnerships, and designing workflows for preservation and discovery. Collection highlights include the [Brooklyn Underground Radio Archive](https://map.pirateradiomap.com/), documenting immigrant pirate radio stations in New York City, and *Soul on the Dial*, a collection of rare recordings documenting African American radio history, for which I also created an [interactive StoryMap](https://storymaps.arcgis.com/stories/97e333cada7a436db360f9bdbf1967b0).
 
-The [Airwaves website application](https://unlockingtheairwaves.org/) virtually reunifies the split collections of the NAEB to tell the story of early educational and public broadcasting, along with curatorial enhancements such as digital exhibits and visualizations. To do this, we used a lot of different strategies from both the digital humanities and archival studies: virtual reunification, linked data, minimal computing, static site generation, and synced audio/transcripts for the radio broadcasts. This project was funded by a grant from the National Endowment for the Humanities (NEH). The NEH also funded a linked data-centric sequel project, [Broadcasting Audiovisual Data](https://mith.umd.edu/research/broadcasting-av-data/), which is currently ongoing as well. 
+I also manage the [Sound Collections Database (SCD)](https://database.radiopreservation.org/), a national inventory of more than 2,800 historically significant sound collections. I secured funding from the National Recording Preservation Foundation (NRPF) and led its revitalization at MITH, working with research software developer Raffaele Viglianti to restore public access and establish a sustainable technical infrastructure. Together, these initiatives support my ongoing efforts to expand preservation capacity and improve access to overlooked sound heritage nationwide.
+
+---
+![Unlocking the Airwaves logo](/images/uta-logo.png)
+![Broadcasting Audiovisual Data Logo](/images/bavd-logo.png)
+
+### Unlocking the Airwaves & Broadcasting Audiovisual Data
+
+This is a project five years in the making, which directly built on my previous work managing the American Archive of Public Broadcasting (see below). The project launched in July 2021. You can read my own personal journey on the MITH website: [On Forks and Completion: Reflections on a Five-year Digital Humanities Project](https://mith.umd.edu/news/unlocking-the-airwaves-launch/).
+
+Before the ubiquity of National Public Radio (NPR) and the Public Broadcasting Service (PBS), the National Association of Educational Broadcasters (NAEB) was the primary institution responsible for promoting and distributing public broadcasting content in the United States. The NAEB collections, which are currently split between the University of Maryland (audio) and the Wisconsin Historical Society (paper collections), provide an in-depth look at the messages being broadcast to the general public through the rubric of ‘educational radio,’ which predated (and heavily informed) what we now know as public radio, between 1950-1970.
+
+The [Airwaves website application](https://unlockingtheairwaves.org/) virtually reunifies the split collections of the NAEB to tell the story of early educational and public broadcasting, along with curatorial enhancements such as digital exhibits and visualizations. To do this, we used a lot of different strategies from both the digital humanities and archival studies: virtual reunification, linked data, minimal computing, static site generation, and synced audio/transcripts for the radio broadcasts.
+
+The NEH also funded a follow-up project, [Broadcasting Audiovisual Data (BA/VD)](https://bavd.unlockingtheairwaves.org/), which expanded this work to four complementary historic radio collections. Completed in 2023, BA/VD used linked data and archival authority records to connect people and organizations across these collections, shifting from a content-centric to a *network-centric* approach to archival discovery. The resulting website includes a network visualization, seven scholarly exhibits, and documented workflows for connecting archival collections through Wikidata and SNAC.
 
 ---
 ![Lakeland Video Logo](/images/lakeland-heritage.PNG)
