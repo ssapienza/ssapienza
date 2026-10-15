@@ -10,9 +10,21 @@ This page is just a boring list. But many of the talks and writings linked to be
 ---
 Hoyt, E., Sapienza, S., St. John, M. “Back to Sound School: Revisiting the Aesthetic Norms of 1950s and 1960s Educational Radio”. in [_The Oxford Handbook of Radio and Podcasting_](https://global.oup.com/academic/product/the-oxford-handbook-of-radio-and-podcasting-9780197551127?cc=us&lang=en&#), M. Hilmes & A. J. Bottomley (Eds.), August 2024.
 
+Sapienza, S., Hoyt, E. “[White Paper for Broadcasting Audiovisual Data: Using Linked Data and Local Authority Aggregators to Enhance Discoverability for Broadcasting Collections](http://hdl.handle.net/1903/31479),” University of Maryland, September 2023.
+
 Matt St. John, Lauren E. Wilks, Stephanie Sapienza, Eric Hoyt; Access Amplified: Saving and Sharing a 1968 Detroit Audio Collection. [_Resonance_](https://doi.org/10.1525/res.2023.4.3.246) 1 September 2023; 4 (3): 246–259. [Link to full text article](/documents/resonance-access-amplified-article.pdf)
 
+Sapienza, S., Frazier, E. “Linking Radio Networks: The Broadcasting A/V Data Project,” Presentation at the Association for Recorded Sound Collections (ARSC) Annual Conference, 2023.
+
+Sapienza, S., Hoyt, E. “Unlocking the Airwaves: Revitalizing an Early Public and Educational Radio Collection,” Presentation at *A Century of Broadcasting: Preservation and Renewal*, Radio Preservation Task Force Conference, April 2023.
+
+Sapienza, S., St. John, M. “Voices of Discontent: Recovering a 1968 Detroit Audio Collection,” Presentation at the Orphan Film Symposium, New York University, 2022.
+
+Sapienza, S., Frazier, E. “Linked Data and Wikidata in Unlocking the Airwaves,” Presentation to the Linked Data for Libraries (LD4) Wikidata Affinity Group, October 2021.
+
 "Compassionate Design: Love, Care, & Justice in the Lakeland Digital Archive", Panel presentation at the [Inward Outward Symposium: Emotion in the Archive](https://inwardoutward.nl/symposium/emotion-in-the-archive-2021/), The Netherlands Institute for Sound and Vision, October 2021. 
+
+Sapienza, S., Hoyt, E. “[White Paper for Unlocking the Airwaves: Revitalizing an Early Public and Educational Radio Collection](http://hdl.handle.net/1903/28522),” University of Maryland, 2021.
 
 "[The NAEB's Programs for the Disadvantaged](https://www.unlockingtheairwaves.org/exhibits/the-naebs-programs-for-the-disadvantaged/)," Digital exhibit, Unlocking the Airwaves, July 2021.  
 
