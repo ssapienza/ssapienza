@@ -13,8 +13,6 @@ Program Committee, “Bastard Film Encounter 5: Bastards Out of Carolina,” Oct
 
 Conference Organizing Committee, “A Century of Broadcasting: Preservation and Renewal,” Radio Preservation Task Force conference, Washington, DC, April 2023.
 
-<img width="468" height="63" alt="image" src="https://github.com/user-attachments/assets/9cdcea1c-07b0-4328-a123-0b11dec867d8" />
-
 ![Bastard Film Encounter logo](http://bastardfilmencounter.com/wp-content/uploads/2018/09/cropped-BFE-Header-4.png)
 
 Lead Organizer, [Bastard Film Encounter 2019](http://www.bastardfilmencounter.com), April 25-27, 2019 in Baltimore, MD.
