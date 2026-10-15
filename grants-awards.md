@@ -9,11 +9,19 @@ Sometimes people think I am cool and give me accolades and money. When I say 'me
 
 ---
 
-![Broadcasting Audiovisual Data Logo](https://mith.umd.edu/static/93f852d9965cd0d3112ac1343827976c/e2891/b-av-d-logo-2.webp)
+Lead Investigator, **Vision Maker Media Archival Stewardship Consultancy**, Vision Maker Media sponsored research contract ($53,554), October 2025. A MITH-led project providing archival metadata and digital stewardship support, including collection description, rights and distribution metadata, and sustainable access workflows for Indigenous-produced audiovisual media.
+
+Lead Investigator, **Sound Collections Database Revitalization and Migration**, National Recording Preservation Foundation award ($5,000), January 2025. Supported the migration and revitalization of the Radio Preservation Task Force’s Sound Collections Database in collaboration with MITH research software developer Raffaele Viglianti.
+
+Recipient, **ARHU Advancement Grant**, University of Maryland College of Arts and Humanities, 2022. Supported research on natural language processing, topic modeling, and improved discovery of audiovisual collections through MITH’s Digital Dialogues archive.
+
+---
+
+![Broadcasting Audiovisual Data Logo](/images/bavd-logo.png)
 
 Principal Investigator, "[Broadcasting Audiovisual Data: Using linked data and archival authority records to enhance discoverability for broadcasting collections](https://mith.umd.edu/research/broadcasting-av-data/)," National Endowment for the Humanities Digital Humanities Advancement Grant ($294,265), December 2020.
 
-![Unlocking the Airwaves Logo](https://mith.umd.edu/static/546d9202d06dddb774053499a504b299/e2891/header_uta.webp)
+![Unlocking the Airwaves logo](/images/uta-logo-full-square.jpg)
 
 Principal Investigator, "[Unlocking the Airwaves: Revitalizing an Early Public Radio Collection](https://mith.umd.edu/research/unlocking-the-airwaves/)," National Endowment for the Humanities Humanities Collections and Reference Resources grant ($217,000), April 2018.
 
@@ -32,3 +40,4 @@ Recipient, Mary Pickford Scholarship, Association of Moving Image Archivists (AM
 Recipient, Graduate Division Fellowships, University of California, Los Angeles, 2006-07 and 2007-08.
 
 Honorable Mention Recipient, UCLA Information Studies Department’s Diversity Paper Award for 2006-07 for paper entitled “Visualizing a Homeland: Documentation Strategies and Native American Cultural Heritage.”
+
