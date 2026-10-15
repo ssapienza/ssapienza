@@ -5,7 +5,7 @@
 
 ## Research Highlights
 
-Some highlights from my favorite archival and research projects. For a full list, [download my CV](/documents/sapienza-cv-2024.pdf).
+Some highlights from my favorite archival and research projects. For a full list, [download my CV](/documents/sapienza-cv-2026.pdf).
 
 ---
 ![Vision Maker Media logo](/images/vmm-logo.png)
