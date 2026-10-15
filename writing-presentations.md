@@ -8,6 +8,12 @@
 This page is just a boring list. But many of the talks and writings linked to below are decidedly NOT boring. Well, maybe a little if you're not a public radio, archives, or film nerd. [But this one is definitely not boring](https://vimeo.com/419551316). Everyone says so.
 
 ---
+“Burning the Haystack: Identifying Unique Titles in Legacy 16mm Collections (A Tiered Discovery Workflow),” Panel Presentation at the Association of Moving Image Archivists Annual Conference, Baltimore, MD, December 2025. [Link to presentation slides](https://canva.link/un40x3ly2uer5wm)
+
+“Barb: Breaking the Cycle of Abuse,” Presentation and screening at [_Bastard Film Encounter 5: Bastards Out of Carolina_](https://bastardfilmencounter.com/about-bastards/), University of South Carolina, October 2025. Co-presented with Oliver Gaycken.
+
+“Beyond Custody: The Sound Submissions Project and the Future of Archival Stewardship,” Invited Colloquium talk, Pennsylvania State University Department of Communication Arts and Sciences, February 2025.
+
 Hoyt, E., Sapienza, S., St. John, M. “Back to Sound School: Revisiting the Aesthetic Norms of 1950s and 1960s Educational Radio”. in [_The Oxford Handbook of Radio and Podcasting_](https://global.oup.com/academic/product/the-oxford-handbook-of-radio-and-podcasting-9780197551127?cc=us&lang=en&#), M. Hilmes & A. J. Bottomley (Eds.), August 2024.
 
 Sapienza, S., Hoyt, E. “[White Paper for Broadcasting Audiovisual Data: Using Linked Data and Local Authority Aggregators to Enhance Discoverability for Broadcasting Collections](http://hdl.handle.net/1903/31479),” University of Maryland, September 2023.
