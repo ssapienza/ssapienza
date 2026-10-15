@@ -8,6 +8,13 @@
 I have a history going back 18 years of work in the public humanities. These range from exhibitions and screenings for Los Angeles Filmforum, an alternative film & video exhibition arts nonprofit which I was involved with for ten years, to my current position for which I formerly spearheaded MITH's [Digital Dialogues speaker series](https://mith.umd.edu/digital-dialogues/) for five years, as well as several conferences and special events. Below is only a partial list. 
 
 ---
+
+Program Committee, “Bastard Film Encounter 5: Bastards Out of Carolina,” October 2025 in Columbia, South Carolina.
+
+Conference Organizing Committee, “A Century of Broadcasting: Preservation and Renewal,” Radio Preservation Task Force conference, Washington, DC, April 2023.
+
+<img width="468" height="63" alt="image" src="https://github.com/user-attachments/assets/9cdcea1c-07b0-4328-a123-0b11dec867d8" />
+
 ![Bastard Film Encounter logo](http://bastardfilmencounter.com/wp-content/uploads/2018/09/cropped-BFE-Header-4.png)
 
 Lead Organizer, [Bastard Film Encounter 2019](http://www.bastardfilmencounter.com), April 25-27, 2019 in Baltimore, MD.
